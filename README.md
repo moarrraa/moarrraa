@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="980" alt="Maria profile banner" />
+  <img src="2a20105f5dda8fea96f745512eefb432.jpg" width="980" alt="Maria profile banner" />
 </p>
 
 <p align="center">
