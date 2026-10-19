@@ -35,7 +35,7 @@ I create refined and cozy interfaces with a soft visual language. I enjoy combin
   <a href="https://github.com/moarrraa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/moaarra">
     <img src="https://img.shields.io/badge/Telegram-F9D8E4?style=for-the-badge&logo=telegram&logoColor=7B4F5A" />
   </a>
 </p>
