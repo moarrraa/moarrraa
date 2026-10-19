@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="2a20105f5dda8fea96f745512eefb432.jpg" width="980" alt="Maria profile banner" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D889A3&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Maria;Frontend+%2F+UI+Designer;I+love+soft+pink+and+beautiful+interfaces" alt="Typing SVG" />
